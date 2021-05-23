@@ -1,2 +1,2 @@
-# Github-Profiile-Pinder
+# Github-Profile-Finder
 Using Git API
